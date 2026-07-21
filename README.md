@@ -1,16 +1,56 @@
-## Hi there 👋
+# Привет, я Никита 👋
 
-<!--
-**aurusxd/aurusxd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python / C# разработчик**, специализируюсь на AI-автоматизации, Telegram-ботах, парсерах и backend-системах.
 
-Here are some ideas to get you started:
+Создаю решения, которые собирают и обрабатывают данные, работают с нейросетями и автоматизируют рутинные процессы.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Стек
+
+**Python:** FastAPI, SQLAlchemy, aiogram, Selenium, Playwright и много чего еще.
+
+**C#:** .NET, WPF, MVVM, Entity Framework Core
+
+**AI:** LLM API, AI-агенты, RAG, векторный поиск
+
+**Данные:** PostgreSQL, SQLite, Excel, Google Sheets
+
+**Инструменты:** Docker, Git, REST API
+
+
+## 🚀 Проекты
+
+### Sentra
+
+SaaS-платформа для создания AI-ассистентов поддержки на основе базы знаний компании.
+
+`Python` `FastAPI` `PostgreSQL` `RAG` `LLM`
+
+###  AI-customer-support-platform
+
+Интеллектуальный ассистент для клиентской поддержки, который умеет не только отвечать на вопросы по базе знаний, но и выполнять реальные действия с помощью Tool Calling.
+
+`Python` `AI Agents` `FastAPI` `PostgreSQL` `RAG` `LLM`
+
+### AI Agent
+
+ИИ-агент с подключаемыми инструментами, внешними API и интеграцией с Telegram.
+
+`Python` `AI Agents` `Telegram API`
+
+### Rusprofile Parser
+
+Парсер компаний с выгрузкой данных в Excel и генерацией персонализированных писем.
+
+`Python` `Selenium` `Excel`
+
+### Delivery Manager
+
+Desktop-приложение для управления заказами, курьерами и маршрутами доставки.
+
+`C#` `.NET 8` `WPF` `PostgreSQL` `Yandex Maps API`
+
+
+## 📫 Контакты
+
+* GitHub: [@aurusxd](https://github.com/aurusxd)
+* Telegram: `@gnfdfhjjjj`
