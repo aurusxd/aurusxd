@@ -43,6 +43,12 @@ SaaS-платформа для создания AI-ассистентов под
 
 `Python` `Selenium` `Excel`
 
+### article-generator
+
+Полностью автоматизированная система генерации и публикации статей с использованием LLM
+
+`Python` `LLM` `Playwright` `Telegram API`
+
 ### Delivery Manager
 
 Desktop-приложение для управления заказами, курьерами и маршрутами доставки.
