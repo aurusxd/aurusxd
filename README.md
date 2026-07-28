@@ -49,11 +49,11 @@ SaaS-платформа для создания AI-ассистентов под
 
 `Python` `LLM` `Playwright` `Telegram API`
 
-### Delivery Manager
+### research-agent
 
-Desktop-приложение для управления заказами, курьерами и маршрутами доставки.
+Интеллектуальная система для поиска организаций, сбора контактных данных и автоматизации персонализированных рассылок через несколько каналов связи.
 
-`C#` `.NET 8` `WPF` `PostgreSQL` `Yandex Maps API`
+`Python` `AI Agents` `Telegram API` `PlayWright` `Telethon` `Redis` `Celery`
 
 
 ## 📫 Контакты
