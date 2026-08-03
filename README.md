@@ -1,62 +1,47 @@
-# Привет, я Никита 👋
+# Hi, I'm Nikita 👋
 
-**Python / C# разработчик**, специализируюсь на AI-автоматизации, Telegram-ботах, парсерах и backend-системах.
+🇷🇺 **Русский**
 
-Создаю решения, которые собирают и обрабатывают данные, работают с нейросетями и автоматизируют рутинные процессы.
+Python / C# разработчик, специализируюсь на AI-автоматизации, AI-агентах, Telegram-ботах, парсерах и backend-разработке.
 
-## 🛠 Стек
+Разрабатываю системы, которые работают с LLM, автоматизируют бизнес-процессы, собирают и анализируют данные, взаимодействуют с внешними сервисами и помогают решать реальные задачи.
 
-**Python:** FastAPI, SQLAlchemy, aiogram, Selenium, Playwright и много чего еще.
+---
 
-**C#:** .NET, WPF, MVVM, Entity Framework Core
+🇬🇧 **English**
 
-**AI:** LLM API, AI-агенты, RAG, векторный поиск
+Python / C# developer specializing in AI automation, AI agents, Telegram bots, web scraping, and backend development.
 
-**Данные:** PostgreSQL, SQLite, Excel, Google Sheets
+I build AI-powered systems that leverage LLMs, automate business workflows, collect and process data, and integrate with external services.
 
-**Инструменты:** Docker, Git, REST API
+---
 
+## 🚀 Currently Working On
 
-## 🚀 Проекты
+- 🤖 AI Agents
+- 🧠 LLM Applications
+- 💬 Telegram Bots
+- 🔍 Web Scraping & Automation
+- ⚙️ Backend Development
+- 📚 Open Source Projects
 
-### Sentra
+---
 
-SaaS-платформа для создания AI-ассистентов поддержки на основе базы знаний компании.
+## 🛠 Tech Stack
 
-`Python` `FastAPI` `PostgreSQL` `RAG` `LLM`
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python, C#, SQL |
+| **Backend** | FastAPI, SQLAlchemy, aiogram |
+| **AI** | OpenAI API, DeepSeek API, AI Agents, RAG, LangChain |
+| **Automation** | Playwright, Selenium |
+| **Databases** | PostgreSQL, SQLite, Redis |
+| **Tools** | Docker, Git, REST API, Celery |
 
-###  AI-customer-support-platform
-
-Интеллектуальный ассистент для клиентской поддержки, который умеет не только отвечать на вопросы по базе знаний, но и выполнять реальные действия с помощью Tool Calling.
-
-`Python` `AI Agents` `FastAPI` `PostgreSQL` `RAG` `LLM`
-
-### AI Agent
-
-ИИ-агент с подключаемыми инструментами, внешними API и интеграцией с Telegram.
-
-`Python` `AI Agents` `Telegram API`
-
-### Rusprofile Parser
-
-Парсер компаний с выгрузкой данных в Excel и генерацией персонализированных писем.
-
-`Python` `Selenium` `Excel`
-
-### article-generator
-
-Полностью автоматизированная система генерации и публикации статей с использованием LLM
-
-`Python` `LLM` `Playwright` `Telegram API`
-
-### research-agent
-
-Интеллектуальная система для поиска организаций, сбора контактных данных и автоматизации персонализированных рассылок через несколько каналов связи.
-
-`Python` `AI Agents` `Telegram API` `PlayWright` `Telethon` `Redis` `Celery`
+And a lot more
 
 
-## 📫 Контакты
+## 📫 Contacts
 
-* GitHub: [@aurusxd](https://github.com/aurusxd)
-* Telegram: `@gnfdfhjjjj`
+- GitHub — https://github.com/aurusxd
+- Telegram — **@gnfdfhjjjj**
