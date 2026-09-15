@@ -32,6 +32,7 @@ I build AI-powered systems that leverage LLMs, automate business workflows, coll
 | Category | Technologies |
 |----------|--------------|
 | **Languages** | Python, C#, SQL |
+| **Frontend** | Sveltekit, HTML/CSS, React, Vue|
 | **Backend** | FastAPI, SQLAlchemy, aiogram |
 | **AI** | OpenAI API, DeepSeek API, AI Agents, RAG, LangChain |
 | **Automation** | Playwright, Selenium |
